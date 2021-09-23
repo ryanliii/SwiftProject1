@@ -1,9 +1,8 @@
-//
-//  Project1App.swift
-//  Shared
-//
-//  Created by Bret DuBois on 9/23/21.
-//
+/*:
+ # Partner Project 1
+ - Bret DuBois and Ryan Li
+ - 09/23/21
+ */
 
 import SwiftUI
 
